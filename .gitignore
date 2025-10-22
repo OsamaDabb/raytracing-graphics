@@ -1,0 +1,5 @@
+/.vscode/
+/obj/
+*.make
+*.zip
+CS256-HW1.code-workspace
